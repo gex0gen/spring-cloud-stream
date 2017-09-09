@@ -22,6 +22,7 @@ import java.util.Set;
 /**
  * Default adapter implementation for {@Bindable}.
  *
+ * what what what
  * @author Ilayaperumal Gopinathan
  */
 public class BindableAdapter implements Bindable {
